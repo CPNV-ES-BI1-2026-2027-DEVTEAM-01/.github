@@ -40,3 +40,5 @@ The architecture encourages:
 * Scalability and maintainability.
 
 ### High-level architecture
+
+![Overview](./bi1-carfleet-excalidraw.svg)
