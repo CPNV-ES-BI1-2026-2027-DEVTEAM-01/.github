@@ -41,7 +41,7 @@ The architecture encourages:
 
 ### High-level architecture
 
-![Overview](./bi1-carfleet-excalidraw.svg)
+![Overview](./bi-overview-schema-team01.png)
 
 ### Roadmap
 
